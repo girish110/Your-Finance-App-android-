@@ -10,7 +10,7 @@ import FAQs from './components/Home/FAQs';
 import { createStackNavigator } from '@react-navigation/stack';
 //const screenWidth = Dimensions.get('window').width;
 
-
+ 
 // Create Drawer Navigator
 const Drawer = createDrawerNavigator();
 const Stack = createStackNavigator();
